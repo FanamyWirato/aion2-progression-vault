@@ -1,0 +1,19 @@
+# Obsidian — local UI state only
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Secrets and local env
+.env
+.env.*
+*.pem
+*credentials*
+
+# Python / tooling cache
+__pycache__/
+*.pyc
+.venv/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
