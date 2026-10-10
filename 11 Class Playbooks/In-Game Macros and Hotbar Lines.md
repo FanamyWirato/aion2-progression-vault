@@ -94,6 +94,8 @@ procs on **Stagger break** — the line fires it when the window exists.
 **Manual:** buffs, gap closers. After 45, some players add **`Overhead Slam` 16+** as a
 **second macro step** or separate key (unmeasured vs one-step).
 
+Detail: [[Gladiator Skills and Stigmas#In-game macro (PvE)]].
+
 ---
 
 ## Assassin (살성)
@@ -106,6 +108,8 @@ procs on **Stagger break** — the line fires it when the window exists.
 **LMB**; avoid **clicking** macro (drops skills).
 
 **Manual:** **`Illusive Clone`**, **`Swift Contract`**, **`Savage Fang`**, defensives.
+
+Detail: [[Assassin Skills and Stigmas#In-game macro (PvE)]].
 
 ---
 
@@ -121,6 +125,8 @@ procs on **Stagger break** — the line fires it when the window exists.
 **Manual:** **`Deadshot`** on its own key — **hold charge** with macro + LMB running;
 **`Marking Shot`**, buffs, traps.
 
+Detail: [[Ranger Skills and Stigmas#In-game macro (PvE)]].
+
 ---
 
 ## Sorcerer (마도성)
@@ -134,6 +140,8 @@ procs on **Stagger break** — the line fires it when the window exists.
 **Manual:** burst line **`Element Enhancement`** → **`Delayed Explosion`** → **`Winter's
 Shackles`**; ground AoE; **`Hellfire`** charged — **never in macro** (only stage 1).
 Leveling-only: frost **`Ice Chain`** line.
+
+Detail: [[Sorcerer Skills and Stigmas#In-game macro (PvE)]].
 
 ---
 

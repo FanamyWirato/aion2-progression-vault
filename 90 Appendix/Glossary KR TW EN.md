@@ -388,6 +388,66 @@ older-name column.
 | --- | --- | --- |
 | Benevolence | Healing Aura | 치유의 기운 (not 생명의 권능) |
 
+### Sorcerer (마도성)
+
+Hub: [AION 2 Hub — Sorcerer](https://aion2hub.com/classes/sorcerer). Playbooks:
+[[Sorcerer Skills and Stigmas]].
+
+| Live English | Korean | Notes |
+| --- | --- | --- |
+| Blaze | 불꽃 폭발 | Main fire nuke; KR posts often say 불꽃폭발 |
+| Firestorm | 불꽃 작살 | Macro mid; not “Flame Scattershot” |
+| Wish of Concentration | 집중의 기원 | Macro filler; CDR/ATK buff |
+| Bittercold Wind | 혹한의 바람 | Resistance shred |
+| Hellfire | 지옥의 화염 | Manual; stage-1 charge only in macro |
+| Element Enhancement | 원소 강화 | Stigma + active buff |
+| Delayed Explosion | 지연 폭발 | Stigma burst |
+| Fire Wall | 불의 장벽 | Stigma field |
+| Cold Storm | 냉기 폭풍 | Stigma AoE |
+
+### Gladiator (검성)
+
+Hub: [Gladiator](https://aion2hub.com/classes/gladiator). Playbooks:
+[[Gladiator Skills and Stigmas]].
+
+| Live English | Korean | Notes |
+| --- | --- | --- |
+| Lunge Stance | 돌격 자세 | Stigma 20 first |
+| Rage Burst | 격노 폭발 | Enables Overhead Slam |
+| Zikel's Blessing | 지켈의 축복 | Party ATK stigma |
+| Lifestealing Blade | 흡혈의 검 | Stigma + active |
+| Overhead Slam | 내려찍기 | Macro |
+| Rending Blow | 절단의 맹타 | Macro filler |
+| Ruinous Blow | 파멸의 맹타 | Buff bundle with Rage Burst |
+
+### Assassin (살성)
+
+Hub: [Assassin](https://aion2hub.com/classes/assassin). Playbooks:
+[[Assassin Skills and Stigmas]].
+
+| Live English | Korean | Notes |
+| --- | --- | --- |
+| Illusive Clone | 환영 분신 | Stigma 20 |
+| Swift Contract | 신속의 계약 | Stigma |
+| Triniel's Dagger | 트리니엘의 비수 | Stigma nuke |
+| Savage Fang | 맹수의 송곳니 | Stigma flex vs Throw Shadowblade |
+| Insignia Explosion | (see client) | Macro top |
+| Heart Gore | (see client) | Rear nuke |
+
+### Ranger (궁성)
+
+Hub: [Ranger](https://aion2hub.com/classes/ranger). Playbooks:
+[[Ranger Skills and Stigmas]].
+
+| Live English | Korean | Notes |
+| --- | --- | --- |
+| Vaizel's Authority | 바이젤의 권능 | Stigma 20 first |
+| Griffon Arrow | 그리폰의 화살 | Macro / stigma |
+| Supporting Fire | 지원 사격 | High-uptime stigma |
+| Bow of Blessing | 축복의 활 | Party crit stigma |
+| Mother Nature's Breath | 대자연의 숨결 | Reflect flex; KR 5th/6th slot |
+| Deadshot | 저격 | Manual charge |
+
 ## Terms whose global English name is still unresolved
 
 - 쾌유의 진언 (Mantra of Recovery): not on the current global Chanter skill

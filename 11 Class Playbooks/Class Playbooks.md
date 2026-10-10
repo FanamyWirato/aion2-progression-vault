@@ -30,14 +30,14 @@ Playbook set per class: **BiS Roadmap**, **Gear and Slots**, **Skills and Stigma
 | Templar | Tank | complete | [[Templar BiS Roadmap]] | [[Templar Gear and Slots]] | [[Templar Skills and Stigmas]] | [[Templar Support Systems]] |
 | Chanter | Support | complete | [[Chanter BiS Roadmap]] | [[Chanter Gear and Slots]] | [[Chanter Skills and Stigmas]] | [[Chanter Support Systems]] |
 | Cleric | Healer | complete | [[Cleric BiS Roadmap]] | [[Cleric Gear and Slots]] | [[Cleric Skills and Stigmas]] | [[Cleric Support Systems]] |
-| **Spiritmaster** | Ranged DPS | **complete** | [[Spiritmaster BiS Roadmap]] | [[Spiritmaster Gear and Slots]] | [[Spiritmaster Skills and Stigmas]] | [[Spiritmaster Support Systems]] · [[In-Game Macros and Hotbar Lines]] |
-| Gladiator | Melee DPS | *planned* | — | — | — | macro in [[In-Game Macros and Hotbar Lines]] |
-| Assassin | Melee DPS | *planned* | — | — | — | same |
-| Ranger | Ranged DPS | *planned* | — | — | — | same |
-| Sorcerer | Ranged DPS | *planned* | — | — | — | same |
+| **Spiritmaster** | Ranged DPS | **complete** | [[Spiritmaster BiS Roadmap]] | [[Spiritmaster Gear and Slots]] | [[Spiritmaster Skills and Stigmas]] | [[Spiritmaster Support Systems]] |
+| **Sorcerer** | Ranged DPS | **complete** | [[Sorcerer BiS Roadmap]] | [[Sorcerer Gear and Slots]] | [[Sorcerer Skills and Stigmas]] | [[Sorcerer Support Systems]] |
+| **Gladiator** | Melee DPS | **complete** | [[Gladiator BiS Roadmap]] | [[Gladiator Gear and Slots]] | [[Gladiator Skills and Stigmas]] | [[Gladiator Support Systems]] |
+| **Assassin** | Melee DPS | **complete** | [[Assassin BiS Roadmap]] | [[Assassin Gear and Slots]] | [[Assassin Skills and Stigmas]] | [[Assassin Support Systems]] |
+| **Ranger** | Ranged DPS | **complete** | [[Ranger BiS Roadmap]] | [[Ranger Gear and Slots]] | [[Ranger Skills and Stigmas]] | [[Ranger Support Systems]] |
 
-Research order after Spiritmaster: **Sorcerer** (shared mage/Alchemy path), then
-**Gladiator**, **Assassin**, **Ranger**.
+All eight classes: in-game macro columns in [[In-Game Macros and Hotbar Lines]] and
+each **Skills and Stigmas** note.
 
 ## What "best in slot" means here
 
@@ -102,7 +102,11 @@ Skill names in this chapter are the **live global English client strings**,
 taken from [AION 2 Hub — Chanter](https://aion2hub.com/classes/chanter),
 [AION 2 Hub — Templar](https://aion2hub.com/classes/templar),
 [AION 2 Hub — Cleric](https://aion2hub.com/classes/cleric),
-[AION 2 Hub — Spiritmaster](https://aion2hub.com/classes/spiritmaster), and
+[AION 2 Hub — Spiritmaster](https://aion2hub.com/classes/spiritmaster),
+[Sorcerer](https://aion2hub.com/classes/sorcerer),
+[Gladiator](https://aion2hub.com/classes/gladiator),
+[Assassin](https://aion2hub.com/classes/assassin),
+[Ranger](https://aion2hub.com/classes/ranger), and
 [Questlog](https://questlog.gg/aion-2/en/db/skills/chanter/active) after
 global launch (retrieved 2026-09-17). Korean stays in parentheses in the class
 notes so KR guides still search. The full remap, including aliases that patch

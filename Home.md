@@ -19,8 +19,9 @@ written for the global release.
 - New here: read [[Progression Phases Roadmap]] once, end to end.
 - Want the whole map on one screen: [[Progression Mindmap]], or open
   `Progression Mindmap.canvas` for the clickable version.
-- Playing a Templar, Chanter or Cleric: [[Templar BiS Roadmap]],
-  [[Chanter BiS Roadmap]], [[Cleric BiS Roadmap]].
+- Class plans: [[Class Playbooks]] — Templar, Chanter, Cleric, Spiritmaster,
+  Sorcerer, Gladiator, Assassin, Ranger (each has BiS roadmap + gear + skills +
+  support notes).
 - Want a checklist for tonight: [[Daily Routine Main]].
 
 ## Launch baseline
